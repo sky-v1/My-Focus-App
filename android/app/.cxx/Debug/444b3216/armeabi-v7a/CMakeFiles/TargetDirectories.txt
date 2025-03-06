@@ -1,0 +1,2 @@
+E:/Temp/My Focus App/my_focus/android/app/.cxx/Debug/444b3216/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/Temp/My Focus App/my_focus/android/app/.cxx/Debug/444b3216/armeabi-v7a/CMakeFiles/rebuild_cache.dir

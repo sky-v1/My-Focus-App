@@ -1,0 +1,2 @@
+E:/Git Repositories/MyFocus_App-1/android/app/.cxx/Debug/54533h1m/x86_64/CMakeFiles/edit_cache.dir
+E:/Git Repositories/MyFocus_App-1/android/app/.cxx/Debug/54533h1m/x86_64/CMakeFiles/rebuild_cache.dir
